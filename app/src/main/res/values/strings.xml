@@ -1,0 +1,22 @@
+<resources>
+    // Geral
+    <string name="app_name">ExercicioSelecaoMobile</string>
+    <string name="element_list">Lista de Elementos</string>
+    <string name="ligar">Ligar</string>
+    <string name="servicos">Serviços</string>
+    <string name="endereco">Endereço</string>
+    <string name="comentarios">Comentários</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="title_activity_servico">ServicoActivity</string>
+    <string name="carregando">Carregando...</string>
+    <string name="sem_internet">Sem conexão com a internet</string>
+
+    // AlertHelper
+    <string name="no">Não</string>
+    <string name="yes">Sim</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="error">Erro</string>
+    <string name="alert">Alerta</string>
+    <string name="alert_internet">Verifique sua conexão com a internet.</string>
+</resources>

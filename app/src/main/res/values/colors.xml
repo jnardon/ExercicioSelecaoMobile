@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cor_divisor">#E7E7E7</color>
+    <color name="fundo">#F2F2F2</color>
+    <color name="colorPrimary">#DE8A1B</color>
+    <color name="colorPrimaryDark">#DE8A1B</color>
+    <color name="colorAccent">#DE8A1B</color>
+</resources>
